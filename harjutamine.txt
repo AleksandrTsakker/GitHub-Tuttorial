@@ -1,3 +1,4 @@
 # GitHub-Tuttorial
 Siin on tegemist GitHubi harjitamisega. 
-GitHub on platform, kus inimesed jägavad oma open-source projektid
+GitHub on platform, kus inimesed jägavad oma open-source projektid. 
+Ma saab kasutada GitHubi oma projektidest, et kui on vaja mingi raske kood, ja inimesed jägavad neid ikka.
